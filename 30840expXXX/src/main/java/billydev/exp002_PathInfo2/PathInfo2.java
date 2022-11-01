@@ -8,6 +8,7 @@ import java.nio.file.Paths;
 public class PathInfo2 {
 
 	public static void main(String[] args) throws IOException {
+		
 		//121PD255
 		
 		//get a path object with relative path
